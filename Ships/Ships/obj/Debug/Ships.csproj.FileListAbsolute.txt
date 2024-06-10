@@ -1,0 +1,7 @@
+C:\Users\maxwo\source\repos\Ships\Ships\bin\Debug\Ships.exe.config
+C:\Users\maxwo\source\repos\Ships\Ships\bin\Debug\Ships.exe
+C:\Users\maxwo\source\repos\Ships\Ships\bin\Debug\Ships.pdb
+C:\Users\maxwo\source\repos\Ships\Ships\obj\Debug\Ships.csproj.AssemblyReference.cache
+C:\Users\maxwo\source\repos\Ships\Ships\obj\Debug\Ships.csproj.CoreCompileInputs.cache
+C:\Users\maxwo\source\repos\Ships\Ships\obj\Debug\Ships.exe
+C:\Users\maxwo\source\repos\Ships\Ships\obj\Debug\Ships.pdb
