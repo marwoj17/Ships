@@ -85,7 +85,7 @@ class Program
 
     static void PlaceAllShips(char[,] board)
     {
-        var shipSizes = new List<int> { 1 };
+        var shipSizes = new List<int> { 4, 3, 3, 2, 2, 2, 1, 1, 1, 1 };
         foreach (var size in shipSizes)
         {
             bool placed = false;
